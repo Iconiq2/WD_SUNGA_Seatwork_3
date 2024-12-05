@@ -4,18 +4,18 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/Iconiq2">
+    <img src="./assets/img//KICKS.png" alt="Kicks" width="130" height="100">
   </a>
-  <h3 align="center">Seatwork 3: Footer & Header</h3>
+  <h3 align="center">WD_SUNGA_SEATWORK_3</h3>
 </div>
 <div align="center">
-  This is for demonstrating skills in HTML and CSS with Multiple Pages, Effects and Container Manipulations. Providing a Different Versions of Headers and Footers.
+  Core header and footer design principles, featuring both static and dynamic effects created using HTML and CSS.
 </div>
 
 <br />
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Seatwork-3)
+![](https://visit-counter.vercel.app/counter.png?page=Iconiq2/WD-Seatwork-3)
 
 ---
 
@@ -49,14 +49,17 @@
 
 ## Overview
 
-Project demonstrate the coding of HTMl and CSS in different kinds of headers and footers in addition of animations. This is to have hands-on experience in coding and having an actual output.
+This project showcases the implementation of HTML and CSS to create various styles of headers and footers, including animated designs. It aims to provide practical experience in coding while delivering tangible outputs.
 
 ### Key Components
-- Header Animation
-  - Hover Effect
-  - Active Effect
-  - Multi Layer Domino Effect
-  - Not Effect
+- Headers Page:
+  - A collection of 10 unique headers highlighting various designs and features.
+  - Each header incorporates elements such as navigation menus, logos, search bars, or other relevant components.
+- Footers Page:
+ - Includes 10 distinct footers, categorized into 5 static and 5 animated versions.
+ - Static footers provide fixed content like copyright details, contact links, and navigation menus.
+ - Animated footers include dynamic and interactive elements with engaging visual effects.
+
 
 
 ### Technology
@@ -101,4 +104,4 @@ WD-ProjectName
 
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| HTML & CSS Full Course for free | To learn css and html. | trykolang.com |
