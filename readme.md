@@ -104,4 +104,4 @@ WD-ProjectName
 
 | Title | Purpose | Link |
 |-|-|-|
-| HTML & CSS Full Course for free | To learn css and html. | trykolang.com |
+| HTML & CSS Full Course for free | To learn css and html. | https://www.youtube.com/watch?v=HGTJBPNC-Gw&t=40s |
